@@ -1,0 +1,7 @@
+package com.tutorial.mvc;
+
+public class PersonBeanModel 
+{
+	private String name = null;
+	private String mail = null;
+}
